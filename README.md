@@ -18,10 +18,21 @@
 5. Working with a cloud-based git-based system such as GitHub
 
 ### Demo snapshots
+1. Running server and client code
 ![Demo 1](./demo_snaps/Demo1.png)
+
+2. Authenticating with user and password in client
 ![Demo 2](./demo_snaps/Demo2.png)
+
+3. Client displaying participants list
 ![Demo 3](./demo_snaps/Demo3.png)
+
+4. Client selecting participant to chat with.
 ![Demo 4](./demo_snaps/Demo4.png)
+
+5. Message being sent and received within the clients
 ![Demo 5](./demo_snaps/Demo5.png)
+
+6. Exiting client using ^C will close the connection on server and will be updated in the other client.
 ![Demo 6](./demo_snaps/Demo6.png)
 
