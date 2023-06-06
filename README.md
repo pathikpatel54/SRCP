@@ -16,3 +16,12 @@
 3. Using a Systems Programming Language: Used a golang which is a systems programming language.
 4. I needed to update some of the PDUs in the original design. Updated original design document is also attached in folder "design".
 5. Working with a cloud-based git-based system such as GitHub
+
+### Demo snapshots
+![Demo 1](./demo_snaps/Demo1.png)
+![Demo 2](./demo_snaps/Demo2.png)
+![Demo 3](./demo_snaps/Demo3.png)
+![Demo 4](./demo_snaps/Demo4.png)
+![Demo 5](./demo_snaps/Demo5.png)
+![Demo 6](./demo_snaps/Demo6.png)
+
