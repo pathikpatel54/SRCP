@@ -2,7 +2,7 @@
 1. Open 3 terminal windows and change directory to this project folder.
 2. In first terminal start server using 'go run server/main.go'
 3. In second and third terminal start client using 'go run client/main.go'
-4. Type server address in both terminal windows. e.g. (localhost or 192.168.1.100 etc. Address of the server you are running server code)
+4. Type server address in both client terminals. e.g. (localhost or 192.168.1.100 etc. Address of the server you are running server code)
 5. In second and third window type username "alex" and random password. Password checking is not enabled so any random text password will work.
 6. In third window type username "bob" and random password.
 7. In Second and Third window, Online participants list will be displayed.
