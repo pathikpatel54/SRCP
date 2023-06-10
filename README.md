@@ -10,7 +10,7 @@
 9.  Now type messages in second and third terminal windows, message will be transmitted to other user using end to end encryption.
 10. Server will also display message in encrypted form.
 
-### Extra credit tasks done:-
+### Extra tasks done:-
 1. Implementation Robustness: Complete implementation of the proposed design
 2. Concurrent Server: It has a concurrent server with multithreading using go routines and channels
 3. Using a Systems Programming Language: Used a golang which is a systems programming language.
