@@ -13,7 +13,7 @@
 ### Extra tasks done:-
 1. Implementation Robustness: Complete implementation of the proposed design
 2. Concurrent Server: It has a concurrent server with multithreading using go routines and channels
-3. Using a Systems Programming Language: Used a golang which is a systems programming language.
+3. Using a Systems Programming Language: Used golang which is a systems programming language.
 4. I needed to update some of the PDUs in the original design. Updated original design document is also attached in folder "design".
 5. Working with a cloud-based git-based system such as GitHub
 
