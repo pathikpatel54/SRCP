@@ -1,3 +1,5 @@
+Secure Realtime Chat Protocol (SRCP) is a communication protocol for secure and end-to-end encrypted messaging. 
+
 ### Steps to run tests:-
 1. Open 3 terminal windows and change directory to this project folder.
 2. In first terminal start server using 'go run server/main.go'
